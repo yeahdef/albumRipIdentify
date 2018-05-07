@@ -1,0 +1,3 @@
+mutagen
+discogs_client
+tqdm
